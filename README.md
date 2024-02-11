@@ -18,5 +18,6 @@ Efface le contenu de l'onglet `ORIGINAL`. Attention, l'action est irréversible.
 A partir de l'onglet `ORIGINAL`, une petite fenêtre apparaît. Il faut choisir:
 - Le champ de texte à analyser
 - Les autres champs à garder pendant le formatage
+
 Les données finales sont ensuite stockées dans l'onglet `FINAL`.
 
