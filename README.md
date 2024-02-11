@@ -9,10 +9,10 @@ Il y a 2 onglets :
 Il y a 3 actions possibles.
 
 ## a) effacer_final
-Efface le contenu de l'onglet `FINAL`. Attention, l'acion est irréversible.
+Efface le contenu de l'onglet `FINAL`. Attention, l'action est irréversible.
 
 ## b) effacer_original
-Efface le contenu de l'onglet `ORIGINAL`. Attention, l'acion est irréversible.
+Efface le contenu de l'onglet `ORIGINAL`. Attention, l'action est irréversible.
 
 ## c) spliter
 A partir de l'onglet `ORIGINAL`, une petite fenêtre apparaît. Il faut choisir:
